@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zdkMq3Qtfqd9U0aWjquaCS0ek2rMWTs2ytZazFdQZLr70sTQeLqhsPLAti2CVyrBp5vGdAyDuTKdBDbhykiLsw==",
+  "success": true,
+  "projectFilePath": "E:\\Brian\\backup\\Important\\Lasalle College\\Classes\\Semester 4\\DataStructure\\ConsoleAppProjectDataStructure\\ConsoleAppProjectDataStructure\\ConsoleAppProjectDataStructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Blue's Clues\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Blue's Clues\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Blue's Clues\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Blue's Clues\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

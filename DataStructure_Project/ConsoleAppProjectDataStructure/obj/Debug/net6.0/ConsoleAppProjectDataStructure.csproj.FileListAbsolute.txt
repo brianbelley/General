@@ -1,0 +1,15 @@
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 4\DataStructure\ConsoleAppProjectDataStructure\ConsoleAppProjectDataStructure\bin\Debug\net6.0\ConsoleAppProjectDataStructure.exe
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 4\DataStructure\ConsoleAppProjectDataStructure\ConsoleAppProjectDataStructure\bin\Debug\net6.0\ConsoleAppProjectDataStructure.deps.json
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 4\DataStructure\ConsoleAppProjectDataStructure\ConsoleAppProjectDataStructure\bin\Debug\net6.0\ConsoleAppProjectDataStructure.runtimeconfig.json
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 4\DataStructure\ConsoleAppProjectDataStructure\ConsoleAppProjectDataStructure\bin\Debug\net6.0\ConsoleAppProjectDataStructure.dll
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 4\DataStructure\ConsoleAppProjectDataStructure\ConsoleAppProjectDataStructure\bin\Debug\net6.0\ConsoleAppProjectDataStructure.pdb
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 4\DataStructure\ConsoleAppProjectDataStructure\ConsoleAppProjectDataStructure\obj\Debug\net6.0\ConsoleAppProjectDataStructure.csproj.AssemblyReference.cache
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 4\DataStructure\ConsoleAppProjectDataStructure\ConsoleAppProjectDataStructure\obj\Debug\net6.0\ConsoleAppProjectDataStructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 4\DataStructure\ConsoleAppProjectDataStructure\ConsoleAppProjectDataStructure\obj\Debug\net6.0\ConsoleAppProjectDataStructure.AssemblyInfoInputs.cache
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 4\DataStructure\ConsoleAppProjectDataStructure\ConsoleAppProjectDataStructure\obj\Debug\net6.0\ConsoleAppProjectDataStructure.AssemblyInfo.cs
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 4\DataStructure\ConsoleAppProjectDataStructure\ConsoleAppProjectDataStructure\obj\Debug\net6.0\ConsoleAppProjectDataStructure.csproj.CoreCompileInputs.cache
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 4\DataStructure\ConsoleAppProjectDataStructure\ConsoleAppProjectDataStructure\obj\Debug\net6.0\ConsoleAppProjectDataStructure.dll
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 4\DataStructure\ConsoleAppProjectDataStructure\ConsoleAppProjectDataStructure\obj\Debug\net6.0\refint\ConsoleAppProjectDataStructure.dll
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 4\DataStructure\ConsoleAppProjectDataStructure\ConsoleAppProjectDataStructure\obj\Debug\net6.0\ConsoleAppProjectDataStructure.pdb
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 4\DataStructure\ConsoleAppProjectDataStructure\ConsoleAppProjectDataStructure\obj\Debug\net6.0\ConsoleAppProjectDataStructure.genruntimeconfig.cache
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 4\DataStructure\ConsoleAppProjectDataStructure\ConsoleAppProjectDataStructure\obj\Debug\net6.0\ref\ConsoleAppProjectDataStructure.dll
