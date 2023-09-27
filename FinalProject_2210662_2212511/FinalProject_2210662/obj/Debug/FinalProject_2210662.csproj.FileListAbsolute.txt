@@ -1,0 +1,99 @@
+C:\Users\niggo\OneDrive\Documents\Lasalle College\Fall 2022\Multi-tier Application\FinalProject_2210662\FinalProject_2210662\bin\Debug\FinalProject_2210662.exe.config
+C:\Users\niggo\OneDrive\Documents\Lasalle College\Fall 2022\Multi-tier Application\FinalProject_2210662\FinalProject_2210662\bin\Debug\FinalProject_2210662.exe
+C:\Users\niggo\OneDrive\Documents\Lasalle College\Fall 2022\Multi-tier Application\FinalProject_2210662\FinalProject_2210662\bin\Debug\FinalProject_2210662.pdb
+C:\Users\niggo\OneDrive\Documents\Lasalle College\Fall 2022\Multi-tier Application\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.AssemblyReference.cache
+C:\Users\niggo\OneDrive\Documents\Lasalle College\Fall 2022\Multi-tier Application\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.SuggestedBindingRedirects.cache
+C:\Users\niggo\OneDrive\Documents\Lasalle College\Fall 2022\Multi-tier Application\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.LogIn_Form.resources
+C:\Users\niggo\OneDrive\Documents\Lasalle College\Fall 2022\Multi-tier Application\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.Properties.Resources.resources
+C:\Users\niggo\OneDrive\Documents\Lasalle College\Fall 2022\Multi-tier Application\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.GenerateResource.cache
+C:\Users\niggo\OneDrive\Documents\Lasalle College\Fall 2022\Multi-tier Application\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.CoreCompileInputs.cache
+C:\Users\niggo\OneDrive\Documents\Lasalle College\Fall 2022\Multi-tier Application\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.exe
+C:\Users\niggo\OneDrive\Documents\Lasalle College\Fall 2022\Multi-tier Application\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.pdb
+C:\Users\niggo\OneDrive\Documents\Lasalle College\Fall 2022\Multi-tier Application\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.UsersAccount_Form.resources
+C:\Users\niggo\Downloads\FinalProject_2210662\FinalProject_2210662\FinalProject_2210662\bin\Debug\FinalProject_2210662.exe.config
+C:\Users\niggo\Downloads\FinalProject_2210662\FinalProject_2210662\FinalProject_2210662\bin\Debug\FinalProject_2210662.exe
+C:\Users\niggo\Downloads\FinalProject_2210662\FinalProject_2210662\FinalProject_2210662\bin\Debug\FinalProject_2210662.pdb
+C:\Users\niggo\Downloads\FinalProject_2210662\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.AssemblyReference.cache
+C:\Users\niggo\Downloads\FinalProject_2210662\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.SuggestedBindingRedirects.cache
+C:\Users\niggo\Downloads\FinalProject_2210662\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.LogIn_Form.resources
+C:\Users\niggo\Downloads\FinalProject_2210662\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.UsersAccount_Form.resources
+C:\Users\niggo\Downloads\FinalProject_2210662\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.Properties.Resources.resources
+C:\Users\niggo\Downloads\FinalProject_2210662\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.GenerateResource.cache
+C:\Users\niggo\Downloads\FinalProject_2210662\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.CoreCompileInputs.cache
+C:\Users\niggo\Downloads\FinalProject_2210662\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.exe
+C:\Users\niggo\Downloads\FinalProject_2210662\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.pdb
+C:\Users\niggo\Downloads\FinalProject_2210662\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.Customer_Form.resources
+C:\Users\Thien\Documents\Muti_tier\FinalProject_2210662\FinalProject_2210662\bin\Debug\FinalProject_2210662.exe.config
+C:\Users\Thien\Documents\Muti_tier\FinalProject_2210662\FinalProject_2210662\bin\Debug\FinalProject_2210662.exe
+C:\Users\Thien\Documents\Muti_tier\FinalProject_2210662\FinalProject_2210662\bin\Debug\FinalProject_2210662.pdb
+C:\Users\Thien\Documents\Muti_tier\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.AssemblyReference.cache
+C:\Users\Thien\Documents\Muti_tier\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thien\Documents\Muti_tier\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.Customer_Form.resources
+C:\Users\Thien\Documents\Muti_tier\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.LogIn_Form.resources
+C:\Users\Thien\Documents\Muti_tier\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.UsersAccount_Form.resources
+C:\Users\Thien\Documents\Muti_tier\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.Properties.Resources.resources
+C:\Users\Thien\Documents\Muti_tier\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.GenerateResource.cache
+C:\Users\Thien\Documents\Muti_tier\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Documents\Muti_tier\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.exe
+C:\Users\Thien\Documents\Muti_tier\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.pdb
+C:\Users\Thien\Documents\Muti_tier\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.Book_Form.resources
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\bin\Debug\FinalProject_2210662.pdb
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.AssemblyReference.cache
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.Book_Form.resources
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.Customer_Form.resources
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.LogIn_Form.resources
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.UsersAccount_Form.resources
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.Properties.Resources.resources
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.GenerateResource.cache
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.CoreCompileInputs.cache
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.pdb
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\bin\Debug\FinalProject_2210662.exe.config
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\bin\Debug\FinalProject_2210662.exe
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\bin\Debug\EntityFramework.dll
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\bin\Debug\EntityFramework.xml
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.CopyComplete
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.exe
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.Orders_Form_Entity.resources
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662 (1)\FinalProject_2210662\FinalProject_2210662\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\bin\Debug\FinalProject_2210662.exe.config
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\bin\Debug\FinalProject_2210662.exe
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\bin\Debug\FinalProject_2210662.pdb
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\bin\Debug\EntityFramework.dll
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\bin\Debug\EntityFramework.xml
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.AssemblyReference.cache
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.Book_Form.resources
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.Customer_Form.resources
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.LogIn_Form.resources
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.Orders_Form_Entity.resources
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.UsersAccount_Form.resources
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.Properties.Resources.resources
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.GenerateResource.cache
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.CoreCompileInputs.cache
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.CopyComplete
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.exe
+C:\Users\Blue's Clues\Desktop\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.pdb
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\bin\Debug\FinalProject_2210662.exe.config
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\bin\Debug\FinalProject_2210662.exe
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\bin\Debug\FinalProject_2210662.pdb
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\bin\Debug\EntityFramework.dll
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\bin\Debug\EntityFramework.SqlServer.dll
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\bin\Debug\EntityFramework.xml
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\bin\Debug\EntityFramework.SqlServer.xml
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.AssemblyReference.cache
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.SuggestedBindingRedirects.cache
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.Book_Form.resources
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.Customer_Form.resources
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.LogIn_Form.resources
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.Orders_Form_Entity.resources
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.GUI.UsersAccount_Form.resources
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.Properties.Resources.resources
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.GenerateResource.cache
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.CoreCompileInputs.cache
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.csproj.CopyComplete
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.exe
+E:\Brian\backup\Important\Lasalle College\Classes\Semester 3\Multi_Tier_Application\FinalProject_2210662_2212511\FinalProject_2210662\obj\Debug\FinalProject_2210662.pdb
